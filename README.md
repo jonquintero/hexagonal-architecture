@@ -4,8 +4,8 @@ Implementing Domain Driven Design and Hexagonal Architecture example API using L
 
 ## Installing:
 
-1. Clone repository: `git clone https://github.com/fSchettino/ddd-hexagonal-architecture-laravel.git`.
-2. Move to project folder: `cd ddd-hexagonal-architecture-laravel`.
+1. Clone repository: `[git clone https://github.com/jonquintero/hexagonal-architecture.git]`.
+2. Move to project folder: `hexagonal-architecture`.
 3. Duplicate .env.example file and set your variables.
 4. Install project dependencies: `composer install`.
 6. Generate encryption key: `php artisan key:generate`.
